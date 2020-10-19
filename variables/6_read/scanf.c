@@ -8,7 +8,7 @@ int main()
 	printf("Introduce radio(entero): ");
 	scanf("%d",&r);
 	printf("\nPotencia\n");
-	c= pow(PI,d);
+	c= pow (PI,d);
 	printf("\t%0.2f elevado a la potencia / %0.2f es  %0.2f\n",PI,l,a,c,d);
 	printf("Multiplicacion\n");
 	l=2*PI*r;
