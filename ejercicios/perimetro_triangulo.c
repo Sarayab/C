@@ -6,16 +6,16 @@ int main (){
 	float r, a, b, c;
 	
 	//Instrucciones para el usuario 
-	printf ("Ingresa un número a cada lado para calcular el perímetro del triángulo:");
+	printf ("Ingresa un nÃºmero a cada lado para calcular el perÃ­metro del triÃ¡ngulo:");
 	//Leemos las variables lados 
 	
-	printf("Dame el \'primer\' numero:\r");
+	printf("Dame el \'primer\' numero:\n");
 	scanf("%f", &a); 
 	
-	printf("Dame el \'segundo\' numero:\r");
+	printf("Dame el \'segundo\' numero:\n");
 	scanf("%f", &b);
 	
-	printf("Dame el \'tercer\' numero:\r");
+	printf("Dame el \'tercer\' numero:\n");
 	scanf("%f", &c);
 
 	printf("perimetro\n");
